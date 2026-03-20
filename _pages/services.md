@@ -19,5 +19,5 @@ author_profile: true
 - International World Wide Web Conference (WWW, CORE: A*)
 - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD, CORE: A)
 - Empirical Methods in Natural Language Processing (EMNLP, CORE: A)
-- Annual Conference of the Association for Computational Linguistics (ACL, CORE: A)
-- International Conference on Machine Learning (ICML, CORE: A)
+- International Conference on Learning Representations (ICLR, CORE: A*)
+- Annual Conference of the Association for Computational Linguistics (ACL, CORE: A*)

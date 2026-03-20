@@ -16,7 +16,8 @@ package-lock.json
 /vendor/
 .bundle/
 .worktrees/
-
+tests/
+docs/
 # Ignore folders related to IDEs
 .vscode/
 

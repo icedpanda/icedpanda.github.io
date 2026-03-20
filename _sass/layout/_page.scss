@@ -38,7 +38,7 @@
   margin-top: 0;
   line-height: 1;
 
-  & + .page__meta {
+  &+.page__meta {
     margin-top: -0.5em;
   }
 }
@@ -55,7 +55,9 @@
     border-bottom: 1px solid var(--global-border-color);
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -64,8 +66,8 @@
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
+    @if $paragraph-indent ==true {
+      &+p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
@@ -101,7 +103,7 @@
   }
 
   /* blockquote citations */
-  blockquote + .small {
+  blockquote+.small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
@@ -220,6 +222,31 @@
   text-transform: uppercase;
 }
 
+.news-type {
+  font-weight: 500;
+  color: var(--news-label-color, var(--global-link-color));
+}
+
+.news-archive {
+  margin-top: 0.85rem;
+}
+
+.news-archive summary {
+  cursor: pointer;
+}
+
+.news-archive[open] summary {
+  margin-bottom: 0.5rem;
+}
+
+.news-link,
+.news-link:visited,
+.news-link:hover,
+.news-link:focus {
+  color: inherit;
+  font-style: normal;
+}
+
 
 /*
    Page meta
@@ -300,6 +327,7 @@
   transition: $global-transition;
 
   &.disabled {
+
     input,
     button,
     textarea,

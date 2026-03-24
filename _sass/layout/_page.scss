@@ -34,6 +34,15 @@
   }
 }
 
+.page--wide-content {
+  .page__inner-wrap {
+    @include breakpoint($large) {
+      width: 115%;
+      max-width: 115%;
+    }
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;

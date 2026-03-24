@@ -2,6 +2,7 @@
 permalink: /
 title: "Biography"
 author_profile: true
+wide_content: true
 redirect_from:
   - /about/
   - /about.html
@@ -29,7 +30,7 @@ I am a core member of the [AI4Health Lab](https://ai4healthlab.github.io/index.h
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper] </span> Our paper <a class="news-link" href="https://arxiv.org/abs/2312.10967">Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems</a> has been accepted by TNNLS. (Apr., 2024)
 - <span class="news-type" style="--news-label-color: #087E8B;">[Milestone]</span> I passed my PhD confirmation milestone. (Mar., 2023)
 - <span class="news-type" style="--news-label-color: #f89406;">[Award]</span> Our <a class="news-link" href="https://www.worksafe.qld.gov.au/resources/campaigns/awards/resources/winners-and-finalists/2022-awards-finalists">MaskHelper project</a> was recognised through the 2022 WorkSafe Queensland Awards. (Oct., 2022)
-- <span class="news-type" style="--news-label-color: #087E8B;">[Milestone]</span> I commenced as a Research Assistant at Griffith University and joined the <a class="news-link" href="https://www.clinicalexcellence.qld.gov.au/improvement-exchange/ehealth-maskhelper-tool-a-novel-strategy-using-qnfit-testing-to-inform-ai-based-facial-recognition">MaskHelper project to support healthcare worker protection during COVID-19</a>. (Aug., 2021)
+- <span class="news-type" style="--news-label-color: #087E8B;">[Milestone]</span> I Started as a Research Assistant at Griffith University and joined the <a class="news-link" href="https://www.clinicalexcellence.qld.gov.au/improvement-exchange/ehealth-maskhelper-tool-a-novel-strategy-using-qnfit-testing-to-inform-ai-based-facial-recognition">MaskHelper project, supporting healthcare worker protection during COVID-19</a>. (Aug., 2021)
 
 <!-- <details class="news-archive" markdown="1">
   <summary>More News (2025 and before)</summary>
@@ -43,3 +44,68 @@ I am a core member of the [AI4Health Lab](https://ai4healthlab.github.io/index.h
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper] </span>  Our paper <a class="news-link" href="https://arxiv.org/abs/2503.06430">Graph Retrieval-Augmented LLM for Conversational Recommendation Systems</a> has been accepted by PAKDD 2025. (Feb., 2025)
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper] </span> Our paper <a class="news-link" href="https://arxiv.org/abs/2312.10967">Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems</a> has been accepted by TNNLS. (Apr., 2024)
 </details> -->
+
+<!-- # Publications
+---
+
+**[G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge](https://arxiv.org/abs/2509.24276)**
+
+Linhao Luo, Zicheng Zhao, Junnan Liu, **Zhangchi Qiu**, Junnan Dong, Serge Panev, Chen Gong, Thuy-Trang Vu, Gholamreza Haffari, Dinh Phung, Alan Wee-Chung Liew, Shirui Pan
+
+International Conference on Learning Representations (ICLR, CORE: A*), 2026
+
+[\[Code\]](https://github.com/RManLuo/G-reasoner)
+
+---
+
+**[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](https://arxiv.org/abs/2506.03490)**
+
+Shigeng Chen, Linhao Luo, **Zhangchi Qiu**, Yanan Cao, Carl Yang, Shirui Pan
+
+Conference of the European Chapter of the Association for Computational Linguistics (EACL, CORE: A), 2026
+
+[\[Code\]](https://github.com/Aries-chen/MedEditBench)
+
+---
+
+**[Contrastive Learning for Enhancing Model Selection in Sequential Recommender Ensemble](https://doi.org/10.1109/ICKG66886.2025.00053)**
+
+Ye Tao, Tianxing Wang, **Zhangchi Qiu**, Can Wang, Alan Wee-Chung Liew
+
+IEEE International Conference on Knowledge Graph (ICKG), 2025
+
+---
+
+**[Reasoning over User Preferences: Knowledge Graph-Augmented LLMs for Explainable Conversational Recommendations](https://arxiv.org/abs/2411.14459)**
+
+**Zhangchi Qiu**, Linhao Luo, Shirui Pan, Alan Wee-Chung Liew
+
+IEEE International Conference on Data Mining (ICDM, CORE: A*), 2025
+
+[\[Code\]](https://github.com/icedpanda/COMPASS-official)
+
+---
+
+**[Hierarchical Spatial Mamba Framework for Point Cloud Classification](https://doi.org/10.1007/978-981-95-4395-3_28)**
+
+Yajie Sun, Ali Zia, Zekun Long, **Zhangchi Qiu**, Wei Xiang, Jun Zhou
+
+Asian Conference on Pattern Recognition (ACPR), 2025
+
+---
+
+**[Graph Retrieval-Augmented LLM for Conversational Recommendation Systems](https://arxiv.org/abs/2503.06430)**
+
+**Zhangchi Qiu**, Linhao Luo, Zicheng Zhao, Shirui Pan, Alan Wee-Chung Liew
+
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD, CORE: A), 2025
+
+---
+
+**[Knowledge Graphs and Pretrained Language Models Enhanced Representation Learning for Conversational Recommender Systems](https://arxiv.org/abs/2312.10967)**
+
+**Zhangchi Qiu**, Ye Tao, Shirui Pan, Alan Wee-Chung Liew
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF: 14.255), 2024
+
+[\[Code\]](https://github.com/icedpanda/KERL) -->

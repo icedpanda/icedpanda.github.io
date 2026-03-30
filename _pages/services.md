@@ -7,8 +7,8 @@ author_profile: true
 
 ## Journal Reviewer
 
-- [IEEE transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) (TNNLS, IF: 14.255)
-- [IEEE transactions on Big Data](https://www.computer.org/csdl/journal/bd) (TBD, IF: 7.5)
+- [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) (TNNLS, IF: 14.255)
+- [IEEE Transactions on Big Data](https://www.computer.org/csdl/journal/bd) (TBD, IF: 7.5)
 - [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/journal/tit) (TIST, IF: 7.2)
 - [Machine Intelligence Research](https://link.springer.com/journal/11633) (MIR, IF: 6.4)
 - [Knowledge and Information Systems](https://link.springer.com/journal/10115) (KAIS, IF: 2.531)

@@ -10,9 +10,10 @@ redirect_from:
 
 Hello! I am Zhangchi Qiu, a Research Fellow at Griffith University. My research mainly focuses on artificial intelligence and data mining, with particular interests in large language models, knowledge graphs, and recommender systems. I am especially interested in developing knowledge-aware and trustworthy AI systems that support personalised decision-making.
 
-I am a core member of the [AI4Health Lab](https://ai4healthlab.github.io/index.html), led by Prof. [Alan Wee-Chung Lew](https://experts.griffith.edu.au/7401-alan-weechung-liew), and the [TrustAGI Lab](https://trust-agi.github.io), led by Prof. [Shirui Pan](https://shiruipan.github.io). Previously, I obtained my PhD in computer science from Griffith University under the supervision of Prof. Alan Wee-Chung Lew, Prof. Shirui Pan, and A/Prof. [Hui Tian](https://experts.griffith.edu.au/8285-hui-tian).
+I am a core member of the [AI4Health Lab](https://ai4healthlab.github.io/index.html), led by Prof. [Alan Wee-Chung Liew](https://experts.griffith.edu.au/7401-alan-weechung-liew), and the [TrustAGI Lab](https://trust-agi.github.io), led by Prof. [Shirui Pan](https://shiruipan.github.io). Previously, I obtained my PhD in computer science from Griffith University under the supervision of Prof. Alan Wee-Chung Liew, Prof. Shirui Pan, and A/Prof. [Hui Tian](https://experts.griffith.edu.au/8285-hui-tian).
 
-# News
+## News
+
 ---
 
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our latest work on graph foundation models for RAG, <a class="news-link" href="https://arxiv.org/abs/2509.24276">G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge</a>, has been accepted by ICLR 2026. (Jan., 2026)

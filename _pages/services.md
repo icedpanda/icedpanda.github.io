@@ -20,4 +20,5 @@ author_profile: true
 - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD, CORE: A)
 - Empirical Methods in Natural Language Processing (EMNLP, CORE: A)
 - International Conference on Learning Representations (ICLR, CORE: A*)
-- Annual Conference of the Association for Computational Linguistics (ACL, CORE: A*)
+- Conference of the Association for Computational Linguistics (ACL, CORE: A*)
+- Conference on Neural Information Processing Systems (NeurIPS, CORE: A*)

@@ -18,7 +18,7 @@ I am a core member of the [AI4Health Lab](https://ai4healthlab.github.io/index.h
 
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our latest work on graph foundation models for RAG, <a class="news-link" href="https://arxiv.org/abs/2509.24276">G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge</a>, has been accepted by ICLR 2026. (Jan., 2026)
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our paper on medical knowledge editing, <a class="news-link" href="https://arxiv.org/abs/2506.03490">Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing</a>, has been accepted by EACL 2026. (Jan., 2026)
-- <span class="news-type" style="--news-label-color: #6F42C1;">[Patent]</span> Our <a class="news-link" href="https://patents.google.com/patent/AU2023407177B2/en">MaskHelper AI technology</a> was granted Australian Patent AU2023407177B2 for AI-based respirator fit testing. (Oct., 2025)
+- <span class="news-type" style="--news-label-color: #6F42C1;">[Patent]</span> Our <a class="news-link" href="https://patents.google.com/patent/AU2023407177B2/en">MaskHelper AI technology</a> was granted Australian Patent for AI-based respirator fit testing. (Oct., 2025)
 - <span class="news-type" style="--news-label-color: #087E8B;">[Milestone]</span> I am happy to start my new position as a Research Fellow at Griffith University! 🎉 (Sep., 2025)
 - <span class="news-type" style="--news-label-color: #f89406;">[Award]</span> I am honored to receive the Award of Excellence in a Research Thesis. (Sep., 2025)
 - <span class="news-type" style="--news-label-color: #087E8B;">[Milestone]</span> I was officially awarded the degree of Doctor of Philosophy. (Sep., 2025)

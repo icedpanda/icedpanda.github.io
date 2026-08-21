@@ -14,6 +14,7 @@ I am a core member of the [AI4Health Lab](https://ai4healthlab.github.io/index.h
 
 ## News
 
+- <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our paper on knowledge graph-grounded clinical prediction, CRU-Reason: Knowledge Graph-Grounded and Interpretable Clinical Prediction with Clinical Rationale Units, has been accepted to EMNLP 2026. (Aug., 2026)
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our latest work on graph foundation models for RAG, <a class="news-link" href="https://arxiv.org/abs/2509.24276">G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge</a>, has been accepted to ICLR 2026. (Jan., 2026)
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our paper on medical knowledge editing, <a class="news-link" href="https://arxiv.org/abs/2506.03490">Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing</a>, has been accepted to EACL 2026. (Jan., 2026)
 - <span class="news-type" style="--news-label-color: #6F42C1;">[Patent]</span> We received an <a class="news-link" href="https://patents.google.com/patent/AU2023407177B2/en">Australian patent</a> for our MaskHelper AI technology for AI-based respirator fit testing. (Oct., 2025)

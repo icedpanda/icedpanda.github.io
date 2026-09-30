@@ -14,6 +14,7 @@ I am a core member of the [AI4Health Lab](https://ai4healthlab.github.io/index.h
 
 ## News
 
+- <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our paper on memory for personalized LLM agents (TransMem) has been accepted to NeurIPS 2026. (Sep., 2026)
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our survey paper on <a class="news-link" href="https://arxiv.org/abs/2609.08599">graph-based personalized memory for LLM agents</a> has been accepted to ICKG 2026. (Sep., 2026)
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our paper on knowledge graph-grounded clinical prediction has been accepted to the EMNLP 2026 main conference. (Aug., 2026)
 - <span class="news-type" style="--news-label-color: #FF5A5F;">[Paper]</span> Our latest work on graph foundation models for RAG, <a class="news-link" href="https://arxiv.org/abs/2509.24276">G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge</a>, has been accepted to ICLR 2026. (Jan., 2026)
